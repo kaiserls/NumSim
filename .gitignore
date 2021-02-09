@@ -1,0 +1,6 @@
+.vscode/**
+build/**
+out/**
+calculations/**
+docs/**
+!docs/doxyfile
