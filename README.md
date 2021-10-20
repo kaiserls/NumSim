@@ -27,7 +27,7 @@ If you installed libvtk manually and not with ``` sudo apt-get install libvtk ``
 
 ## Authors
 
-* **Author 1** - *Initial work* - [derEisbaerX](https://github.com/derEisbaerX)
+* **Author 1** - *Initial work* - [kaiserls](https://github.com/kaiserls)
 
 * **Author 2** - *Initial work* - ...
 
