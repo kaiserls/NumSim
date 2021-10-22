@@ -3,9 +3,13 @@ A flow solver for the Navier-Stokes equations with some nice features such as ar
 
 ## Installation & Prerequisites
 
-You need gcc, libvtk and cmake to compile and build this project succesfully.
-Executing ``` cd build && cmake .. & make -j && make install ``` in the main project folder compiles the sources and copys the executable to the build directory.
+You need
+- gcc
+- libvtk and
+- cmake to compile and build this project succesfully.
+Execute ``` sudo apt install gcc cmake ``` inside the terminal to install the first two tools. For libvtk enter ``` sudo apt install libvtk``` and press the "tab-key" for autocompletion proposals and choose the version you like.
 
+Executing ``` cd build && cmake .. & make -j && make install ``` in the main project folder compiles the sources and copys the executable to the build directory.
 The first time the command above will fail, because there is no build  directory. Simply enter ``` mkdir build ``` to create the directory.
 
 ## Usage
